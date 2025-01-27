@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hi friends, I am a frontend developer, and today I want to tell you about my services.<br><br>As a frontend developer, I am involved in creating beautiful and user-friendly interfaces for websites. I know how to work with technologies such as HTML, CSS and JavaScript and use the most modern tools to achieve the best results.<br><br>If you want to create a website that not only looks beautiful, but is simple and easy to use, then I'm ready to help you. I'll develop a unique design for you that fits your needs and objectives, and create web pages that work without glitches or delays.<br><br>I also offer web page optimization services that will increase load speeds and improve user experience. In addition, I can help you with adaptive layout, allowing your site to look great on any device, whether it's a computer, tablet or smartphone.<br><br>So if you need a frontend developer who can create a quality and user-friendly website for you, contact me. I am ready to take on any project and guarantee you high quality work!
+Hi friends, I am a developer specializing in both frontend and fullstack development, and today I want to tell you about my services.
+
+As a frontend developer, I create beautiful and user-friendly interfaces for websites. I work with technologies such as HTML, CSS, JavaScript, and use the latest tools to achieve the best results.
+
+If you want to create a website that not only looks attractive but is also easy to use, I would love to help you. I will develop a unique design that meets your needs and goals, and create web pages that will work without glitches or delays.
+
+In addition, I offer web page optimization services to help increase loading speeds and improve user experience. I can also help you with responsive layout so your website looks great on any device - whether it's a computer, tablet, or smartphone.
+
+But that's not all! As a fullstack developer, I also do server-side development and work with PHP to create dynamic and functional web applications. I can help you with both client and server side development, database integration and API creation.
+
+So, if you need a specialist who can create a high-quality and user-friendly website with well-thought-out server-side logic, contact me! I am ready to take on any project and guarantee you high quality work!
 
 
 # 💻 Tech Stack:
