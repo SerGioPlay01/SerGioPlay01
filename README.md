@@ -100,11 +100,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerGioPlay01&layout=compact&langs_count=8&theme=radical&border_radius=10&animation=grow_out_in" alt="Top Languages"/>
 </p>
 
-<!-- GitHub Streak Stats with Animation -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SerGioPlay01&theme=radical&border_radius=10&animation=zoom_in" alt="GitHub Streak" height="180"/>
-</p>
-
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SerGioPlay01&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=SerGio%27s%20GitHub%20Activity" alt="Activity Graph" width="100%"/>
