@@ -101,7 +101,9 @@ Tworzę nowoczesne i responsywne strony internetowe, łącząc estetykę projekt
 ## 🌎 Connect with Me
 
 <p align="center">
-  [![Website](https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=About.me&logoColor=white)](https://sergioplay-dev.vercel.app/)
+ <a href="https://sergioplay-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="SerGio Play Website"/>
+  </a>
   <a href="https://anifox-search.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/AniFox_Search-FF8C00?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
