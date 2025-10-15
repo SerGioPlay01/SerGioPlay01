@@ -49,7 +49,7 @@
 
 | 🎯 Project | 🌐 Live Demo | 💻 Source Code | 🛠️ Tech |
 |------------|--------------|----------------|----------|
-| **🦊 AniFox Search** | [![Vercel](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://anifox-search.vercel.app/) | [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=for-the-badge&logo=github)](https://github.com/SerGioPlay01/anifox-search) | `React` `API` `CSS3` |
+| **🦊 AniFox Search** | [![Vercel](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://anifox-search.vercel.app/) | [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=for-the-badge&logo=github)](https://github.com/SerGioPlay01/anifox-search) | `JavaScript` `API` `CSS3` |
 | **🔗 Player Link CDN** | [![Netlify](https://img.shields.io/badge/Live-Demo-15847D?style=for-the-badge&logo=netlify)](https://player-link-cdn-search.netlify.app/) | [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=for-the-badge&logo=github)](https://github.com/SerGioPlay01/player-link-cdn-search) | `JavaScript` `HTML5` `CSS3` |
 | **🧠 Mind Map Visualizer** | [![Netlify](https://img.shields.io/badge/Live-Demo-15847D?style=for-the-badge&logo=netlify)](https://mind-map-visualizer.netlify.app/) | `Private` | `JavaScript` `SVG` |
 | **📓 LocalNotes Web** | [![Netlify](https://img.shields.io/badge/Live-Demo-15847D?style=for-the-badge&logo=netlify)](https://localnotes-web.netlify.app/) | [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=for-the-badge&logo=github)](https://github.com/SerGioPlay01/localnotes) | `PWA` `LocalStorage` |
