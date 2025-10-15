@@ -79,7 +79,6 @@ Tworzę nowoczesne i responsywne strony internetowe, łącząc estetykę projekt
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SerGioPlay01&theme=radical&show_icons=true&hide_border=false&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SerGioPlay01&theme=radical&hide_border=false" height="180"/>
 </p>
 
 <p align="center">
