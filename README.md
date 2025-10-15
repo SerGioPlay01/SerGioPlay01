@@ -107,11 +107,5 @@ Tworzę nowoczesne i responsywne strony internetowe, łącząc estetykę projekt
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SerGioPlay01&label=Profile%20Views&color=7&icon=5&pretty=true" />
-</p>
-
----
 🌟 *"Code is art. Design is emotion. Combine both — and you create experience."*  
 — **SerGio Play**
