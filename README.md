@@ -1,4 +1,4 @@
- <!-- 🌐 Multilingual, Animated, and Modern GitHub Profile README -->
+<!-- 🌐 Multilingual, Animated, and Modern GitHub Profile README -->
 <div align="center">
 
 <!-- Animated Header with Gradient Text -->
