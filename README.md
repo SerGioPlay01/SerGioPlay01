@@ -102,13 +102,6 @@ Tworzę nowoczesne i responsywne strony internetowe, łącząc estetykę projekt
 
 ---
 
-## 😂 Random Dev Meme
-<p align="center">
-  <img src="https://rm.up.railway.app/" width="400"/>
-</p>
-
----
-
 ## 🌎 Connect with Me
 
 <p align="center">
