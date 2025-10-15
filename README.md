@@ -1,33 +1,128 @@
-# 💫 About Me:
-Hi friends, I am a developer specializing in both frontend and fullstack development, and today I want to tell you about my services.
+<!-- 🌐 Multilingual, Animated, and Modern GitHub Profile README -->
+<h1 align="center">✨ SerGio Play ✨</h1>
+<h3 align="center">🌍 Web Developer | Designer | SMM Manager | Content Creator</h3>
 
-As a frontend developer, I create beautiful and user-friendly interfaces for websites. I work with technologies such as HTML, CSS, JavaScript, and use the latest tools to achieve the best results.
-
-If you want to create a website that not only looks attractive but is also easy to use, I would love to help you. I will develop a unique design that meets your needs and goals, and create web pages that will work without glitches or delays.
-
-In addition, I offer web page optimization services to help increase loading speeds and improve user experience. I can also help you with responsive layout so your website looks great on any device - whether it's a computer, tablet, or smartphone.
-
-But that's not all! As a fullstack developer, I also do server-side development and work with PHP to create dynamic and functional web applications. I can help you with both client and server side development, database integration and API creation.
-
-So, if you need a specialist who can create a high-quality and user-friendly website with well-thought-out server-side logic, contact me! I am ready to take on any project and guarantee you high quality work!
-
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SerGioPlay01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SerGioPlay01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SerGioPlay01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SerGioPlay01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7B7&width=480&lines=Fullstack+%26+Frontend+Developer;Creative+Web+Designer;SMM+Manager+%26+Content+Creator;Anime+Fan+%7C+Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SerGioPlay01&icon=3&color=7)](https://visitcount.itsvg.in)
 
+## 🌐 Multilingual Introduction | Многоязычное представление
+
+**🇬🇧 English:**  
+Hi friends! I’m **SerGio Play**, a passionate **frontend & fullstack web developer**, **SMM manager**, and **content creator**.  
+I design modern, responsive, and user-friendly websites with a creative touch — combining aesthetic design and functional code.  
+
+**🇷🇺 Русский:**  
+Привет, друзья! Я — **SerGio Play**, профессиональный **веб-разработчик (frontend и fullstack)**, **SMM-менеджер** и **создатель контента**.  
+Создаю современные, адаптивные и удобные сайты, где каждая деталь продумана до мелочей.  
+
+**🇺🇦 Українська:**  
+Привіт, друзі! Я — **SerGio Play**, досвідчений **веброзробник (frontend і fullstack)**, **SMM-менеджер** та **творець контенту**.  
+Створюю сучасні, адаптивні та зручні вебсайти, які поєднують естетику дизайну та потужний функціонал.  
+
+**🇵🇱 Polski:**  
+Cześć, przyjaciele! Jestem **SerGio Play** — profesjonalny **web developer (frontend i fullstack)**, **SMM manager** oraz **twórca treści**.  
+Tworzę nowoczesne i responsywne strony internetowe, łącząc estetykę projektu z solidnym kodem.  
+
+---
+
+## 💫 About Me
+
+- 🎨 I specialize in **Frontend & Fullstack Development**  
+- 🧠 I create intuitive and fast **user interfaces**  
+- 🛠️ Tech focus: **HTML, CSS, JS, PHP, React, Node.js, MySQL**  
+- 🌍 Hosting projects on **Netlify**, **Vercel**, and **GitHub Pages**  
+- 🧩 I also work with **API integration, SEO optimization & PWA apps**  
+- 💬 I speak **English 🇬🇧**, **Russian 🇷🇺**, **Ukrainian 🇺🇦**, **Polish 🇵🇱**, and a bit of **Japanese 🇯🇵**  
+- ⚡ Fun fact: I’m an **anime fan** and the creator of [AniFox Search](https://anifox-search.vercel.app/)  
+
+---
+
+## 🚀 Featured Projects
+
+| 🌐 Project | 🔗 Live Demo | 💾 GitHub |
+|-------------|--------------|-----------|
+| 🎨 **Modern WYSIWYG Editor** | — | [Repo](https://github.com/SerGioPlay01/Modern-WYSIWYG-Editor) |
+| 🔗 **Player Link CDN Search** | [Demo](https://player-link-cdn-search.netlify.app/) | [Repo](https://github.com/SerGioPlay01/player-link-cdn-search) |
+| 🧠 **Mind Map Visualizer** | [Demo](https://mind-map-visualizer.netlify.app/) | — |
+| 📓 **LocalNotes Web App** | [Demo](https://localnotes-web.netlify.app/) | [Repo](https://github.com/SerGioPlay01/localnotes) |
+| 🦊 **AniFox Search** | [Demo](https://anifox-search.vercel.app/) | [Repo](https://github.com/SerGioPlay01/anifox-search) |
+| 🎞️ **GIFs Search RU** | — | [Repo](https://github.com/SerGioPlay01/gifs-search-ru) |
+| 🧩 **Accessibility Panel** | — | [Repo](https://github.com/SerGioPlay01/accessibility-panel) |
+| 📚 **Fluent RSS Reader** | — | [Repo](https://github.com/SerGioPlay01/fluent-rss-reader-web) |
+| 📸 **Social Share RU** | — | [Repo](https://github.com/SerGioPlay01/social_share_ru) |
+| 🖼️ **Slider for Website** | — | [Repo](https://github.com/SerGioPlay01/slider_for_website) |
+| 🧭 **Tabs for Site (HTML)** | — | [Repo](https://github.com/SerGioPlay01/tabs-for-site-on-HTML) |
+| 🍪 **Cookie Manager App** | [Demo](https://cookie-manager-sergioplay.netlify.app/) | — |
+
+---
+
+## 🧠 Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SerGioPlay01&theme=radical&show_icons=true&hide_border=false&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SerGioPlay01&theme=radical&hide_border=false" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerGioPlay01&theme=radical&layout=compact" />
+</p>
+
+---
+
+## 🏆 Achievements & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SerGioPlay01&theme=darkhub&no-frame=true&margin-w=8" />
+</p>
+
+---
+
+## ✍️ Random Developer Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 😂 Random Dev Meme
+<p align="center">
+  <img src="https://rm.up.railway.app/" width="400"/>
+</p>
+
+---
+
+## 🌎 Connect with Me
+
+<p align="center">
+  <a href="https://sergioplay-dev.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://anifox-search.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/AniFox_Search-FF8C00?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://github.com/SerGioPlay01" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=SerGioPlay01&label=Profile%20Views&color=7&icon=5&pretty=true" />
+</p>
+
+---
+🌟 *"Code is art. Design is emotion. Combine both — and you create experience."*  
+— **SerGio Play**
