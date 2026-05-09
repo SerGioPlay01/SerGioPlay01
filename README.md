@@ -37,10 +37,6 @@ const SerGio Play = {
 
 ![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-# 🚀 Featured Projects
-
-ProjectDescriptionStack📝 **LocalNotes**Offline-first encrypted notes web app`PWA` `LocalStorage`🎨 **Modern WYSIWYG**Rich editor with modern UI and markdown support`JavaScript`🔗 **Player Link CDN**Streaming/search utility platform`HTML` `CSS` `JS`
-
 # ⚡ Tech Stack
 
 ## Frontend
