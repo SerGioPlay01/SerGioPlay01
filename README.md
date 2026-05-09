@@ -52,12 +52,6 @@
 
 ![](https://skillicons.dev/icons?i=linux,git,github,vscode,figma)
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=SerGioPlay01&amp;show&lt;em&gt;icons=true&amp;theme=transparent&amp;hide&lt;/em&gt;border=true&amp;title&lt;em&gt;color=00e6b8&amp;icon&lt;/em&gt;color=00e6b8&amp;text_color=c9d1d9)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SerGioPlay01&amp;layout=compact&amp;theme=transparent&amp;hide&lt;em&gt;border=true&amp;title&lt;/em&gt;color=00e6b8&amp;text_color=c9d1d9)
-
 # 🧠 Philosophy
 
 Code is not just functionality.
