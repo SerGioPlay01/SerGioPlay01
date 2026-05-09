@@ -31,7 +31,8 @@ const SerGio Play = {
         "Modern Web Interfaces",
         "Glassmorphism UI Systems"
     ]
-}
+    }
+
 
 # 🌌 Digital Identity
 
