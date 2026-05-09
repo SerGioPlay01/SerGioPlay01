@@ -28,7 +28,6 @@ const SerGio Play = {
     ],
 
     currentlyBuilding: [
-        "AniFox Search",
         "Modern Web Interfaces",
         "Glassmorphism UI Systems"
     ]
@@ -40,7 +39,7 @@ const SerGio Play = {
 
 # 🚀 Featured Projects
 
-ProjectDescriptionStack🦊 **AniFox Search**Anime search platform with filters and recommendations`JavaScript` `API` `CSS`📝 **LocalNotes**Offline-first encrypted notes web app`PWA` `LocalStorage`🎨 **Modern WYSIWYG**Rich editor with modern UI and markdown support`JavaScript`🔗 **Player Link CDN**Streaming/search utility platform`HTML` `CSS` `JS`
+ProjectDescriptionStack📝 **LocalNotes**Offline-first encrypted notes web app`PWA` `LocalStorage`🎨 **Modern WYSIWYG**Rich editor with modern UI and markdown support`JavaScript`🔗 **Player Link CDN**Streaming/search utility platform`HTML` `CSS` `JS`
 
 # ⚡ Tech Stack
 
@@ -69,9 +68,7 @@ It's atmosphere, emotion and experience.
 
 # 🌐 Connect
 
-[     ![](https://img.shields.io/badge/Portfolio-00bfa6?style=for-the-badge&amp;logo=vercel&amp;logoColor=white) ](https://sergioplay-dev.netlify.app/)
-
-[     ![](https://img.shields.io/badge/AniFox-7c3aed?style=for-the-badge&amp;logo=firefox-browser&amp;logoColor=white) ](https://anifox-search.vercel.app/)
+[     ![](https://img.shields.io/badge/Portfolio-00bfa6?style=for-the-badge&amp;logo=vercel&amp;logoColor=white) ](https://sergioplay-dev.vercel.app/)
 
 [     ![](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&amp;logo=github&amp;logoColor=white) ](https://github.com/SerGioPlay01)
 
