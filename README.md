@@ -9,7 +9,7 @@
 
 # 👨‍💻 About Me
 
-const SergioPlay = {
+const SerGio Play = {
     role: [
         "Web Developer",
         "UI/UX Designer",
