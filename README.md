@@ -3,7 +3,7 @@
 
 ---
 
-![](https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0f172a,50:00bfa6,100:7c3aed&amp;text=SerGio%20Play&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Cyberpunk%20Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Creator&amp;descAlignY=58)
+![](https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0f172a,50:00bfa6,100:7c3aed&amp;text=SerGio%20Play&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Creator&amp;descAlignY=58)
 
 ![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00E6B8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Frontend+%26+Fullstack+Developer;Cyberpunk+UI%2FUX+Designer;Anime+%26+Tech+Enthusiast;Open+Source+Creator;Building+Digital+Experiences)
 
