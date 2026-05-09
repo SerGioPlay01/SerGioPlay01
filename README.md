@@ -4,14 +4,14 @@
 
 # 👨‍💻 About Me
 
-const SerGio Play = {
+    const SerGio Play = {
     role: [
         "Web Developer",
         "UI/UX Designer",
         "SMM Manager",
         "Content Creator"
     ],
-
+    
     stack: {
         frontend: ["HTML", "CSS", "JavaScript", "React"],
         backend: ["Node.js", "PHP"],
